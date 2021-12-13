@@ -7,13 +7,15 @@
   \EasyRdf\RdfNamespace::set("foaf", "http://xmlns.com/foaf/0.1/");
   \EasyRdf\RdfNamespace::set("idb", "http://id.dbpedia.org/resource/");
   \EasyRdf\RdfNamespace::set("dbp", "https://dbpedia.org/property/");
-  $uri_rdf = "https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/blob/main/travelinSumatera.rdf";
+  $uri_rdf = "https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/master/travelinSumatera.rdf";
   $row_file = file_get_contents($uri_rdf);
+  var_dump($row_file);
   $parser = new \EasyRdf\Parser\RdfXml();
+  var_dump($parser);
   $graph = new \EasyRdf\Graph();
   $parser ->parse($graph, $row_file, 'rdfxml', null);
   $doc = $graph->resource('https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2');
-  $i=0;
+  /*$i=0;
   $lokasi = [];
   echo $doc->get('dbo:page'). "<br>";
   foreach($doc->all('dbp:feature') as $provinsi){
