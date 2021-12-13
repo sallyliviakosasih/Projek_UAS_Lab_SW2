@@ -15,7 +15,7 @@
 
 <foaf:Document rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/">
     <rdfs:label>Travel In Sumatera</rdfs:label>
-    <dbo:page rdf:resource="http://id.dbpedia.org/page/Sumatera"/>
+    <dbo:page rdf:resource="http://dbpedia.org/page/Sumatera"/>
     <dbp:feature> 
         <dbo:province rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/#Sumatera_Utara">
             <rdfs:label>Sumatera Utara</rdfs:label>
