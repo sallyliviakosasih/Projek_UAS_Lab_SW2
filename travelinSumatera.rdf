@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbp="https://dbpedia.org/property/">
+
+<foaf:PersonalProfileDocument rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/travelinSumatera.rdf">
+    <rdfs:label>Travel In Sumatera</rdfs:label>
+    <foaf:maker rdf:resource="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/"/>
+    <foaf:primaryTopic rdf:resource="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/"/>
+</foaf:PersonalProfileDocument>
+
+<foaf:Document rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/">
+    <rdfs:label>Travel In Sumatera</rdfs:label>
+    <dbo:page rdf:resource="http://id.dbpedia.org/page/Sumatera"/>
+    <dbp:feature> 
+        <dbo:province rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2#Sumatera_Utara">
+            <rdfs:label>Sumatera Utara</rdfs:label>
+            <dbo:capital>Medan</dbo:capital>
+            <dbo:page rdf:resource="http://dbpedia.org/resource/North_Sumatra"/>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Museum_Sumatera_Utara">
+                    <rdfs:label>Museum Sumatera Utara</rdfs:label>
+                    <dbo:location>Medan</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/North_Sumatra_Museum"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Istana_Maimun">
+                    <rdfs:label>Istana Maimun</rdfs:label>
+                    <dbo:location>Medan</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Maimun_Palace"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Toba">
+                    <rdfs:label>Danau Toba</rdfs:label>
+                    <dbo:location>Pulau Samosir</dbo:location>
+                     <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Toba"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Museum_Tsunami_Aceh">
+                    <rdfs:label>Museum Tsunami Aceh</rdfs:label>
+                    <dbo:location>Banda Aceh</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Aceh_Tsunami_Museum"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Taman_Nasional_Gunung_Leuser">
+                    <rdfs:label>Taman Nasional Gunung Leuser</rdfs:label>
+                    <dbo:location>Aceh</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Mount_Leuser_National_Park"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Laut_Tawar">
+                    <rdfs:label>Danau Laut Tawar</rdfs:label>
+                    <dbo:location>Aceh</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Laut_Tawar"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Sidihoni">
+                    <rdfs:label>Danau Sidihoni</rdfs:label>
+                    <dbo:location>Pulau Samosir</dbo:location>
+                     <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Sidihoni"/>
+                </dbo:place>
+            </dbo:thing>
+        </dbo:province>
+    </dbp:feature>
+    
+    <dbp:feature>
+        <dbo:province rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2#Sumatera_Barat">
+            <rdfs:label>Sumatera Barat</rdfs:label>
+            <dbo:capital>Padang</dbo:capital>
+            <dbo:page rdf:resource="http://dbpedia.org/resource/West_Sumatra"/>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/JamGadang">
+                    <rdfs:label>Jam Gadang</rdfs:label>
+                    <dbo:location>Bukittinggi</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Jam_Gadang"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Maninjau">
+                    <rdfs:label>Danau Maninjau</rdfs:label>
+                    <dbo:location>Tanjung Raya</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Maninjau"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Istana_Pagaruyung">
+                    <rdfs:label>Istana Pagaruyung</rdfs:label>
+                    <dbo:location>Batusangkar</dbo:location>
+                     <dbo:page rdf:resource="https://dbpedia.org/page/Pagaruyung_Kingdom"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Singkarak">
+                    <rdfs:label>Danau Singkarak</rdfs:label>
+                    <dbo:location>Sumatera Barat</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Singkarak"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Dibawah">
+                    <rdfs:label>Danau Dibawah</rdfs:label>
+                    <dbo:location>Sumatera Barat</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Dibawah"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Diatas">
+                    <rdfs:label>Danau Diatas</rdfs:label>
+                    <dbo:location>Sumatera Barat</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Diatas"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Pulau_Sikuai">
+                    <rdfs:label>Pulau Sikuai</rdfs:label>
+                    <dbo:location>Bungus Teluk Kabung</dbo:location>
+                     <dbo:page rdf:resource="https://dbpedia.org/page/Sikuai"/>
+                </dbo:place>
+            </dbo:thing>
+        </dbo:province>
+    </dbp:feature>
+
+    <dbp:feature>
+        <dbo:province rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2#Sumatera_Selatan">
+            <rdfs:label>Sumatera Selatan</rdfs:label>
+            <dbo:capital>Palembang</dbo:capital>
+            <dbo:page rdf:resource="http://dbpedia.org/resource/South_Sumatra"/>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Sungai_Musi">
+                    <rdfs:label>Sungai Musi</rdfs:label>
+                    <dbo:location>Sumatera Selatan</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Musi_River_(Indonesia)"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Danau_Ranau">
+                    <rdfs:label>Danau Ranau</rdfs:label>
+                    <dbo:location>Sumatera Selatan</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Ranau"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Kuto_Besak">
+                    <rdfs:label>Kuto Besak</rdfs:label>
+                    <dbo:location>Palembang</dbo:location>
+                     <dbo:page rdf:resource="https://dbpedia.org/page/Kuto_Besak"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Jembatan_Ampera">
+                    <rdfs:label>Jembatan Ampera</rdfs:label>
+                    <dbo:location>Sumatera Selatan</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Ampera_Bridge"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Gunung_Dempo">
+                    <rdfs:label>Gunung Dempo</rdfs:label>
+                    <dbo:location>Bengkulu</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Mount_Dempo"/>
+                </dbo:place>
+            </dbo:thing>
+            <dbo:thing>
+                <dbo:place rdf:about="https://github.com/sallyliviakosasih/Projek_UAS_Lab_SW2/test.php/Taman_Nasional_Kerinci_Seblat">
+                    <rdfs:label>Taman Nasional Kerinci Seblat</rdfs:label>
+                    <dbo:location>Bengkulu</dbo:location>
+                    <dbo:page rdf:resource="https://dbpedia.org/page/Lake_Diatas"/>
+                </dbo:place>
+            </dbo:thing>
+        </dbo:province>
+    </dbp:feature>
+</foaf:Document>
+
+</rdf:RDF>
